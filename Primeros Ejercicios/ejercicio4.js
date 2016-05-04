@@ -1,3 +1,5 @@
-var promedio = function (x,y){
-    return (y = x(3.785));
+var galones = function(a){
+	return (a/3.785);
+
 }
+console.log(galones(30));
